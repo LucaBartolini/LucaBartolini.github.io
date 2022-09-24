@@ -2,10 +2,10 @@ baseURL = "LucaBartolini.github.io"
 # baseURL = "localhost"
 languageCode = 'en-us'
 theme = "hello-friend-ng"
-# publishDir  = "public"
-publishDir  = "docs"
+publishDir  = "public"
+# publishDir  = "docs"
 paginate     = 10
-    
+
 [params]
     dateform        = "Jan 2, 2006"
     dateformShort   = "Jan 2"
