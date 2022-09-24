@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>LucaBartolini/LucaBartolini.github.io/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on </title>
+    <link>LucaBartolini.github.io/tags/</link>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Sep 2022 11:17:04 +0200</lastBuildDate><atom:link href="LucaBartolini/LucaBartolini.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Sep 2022 11:17:04 +0200</lastBuildDate><atom:link href="LucaBartolini.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>untagged</title>
-      <link>LucaBartolini/LucaBartolini.github.io/tags/untagged/</link>
+      <link>LucaBartolini.github.io/tags/untagged/</link>
       <pubDate>Sat, 24 Sep 2022 11:17:04 +0200</pubDate>
       
-      <guid>LucaBartolini/LucaBartolini.github.io/tags/untagged/</guid>
+      <guid>LucaBartolini.github.io/tags/untagged/</guid>
       <description></description>
     </item>
     

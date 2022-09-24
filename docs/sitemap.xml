@@ -2,21 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>LucaBartolini/LucaBartolini.github.io/posts/first/</loc>
+    <loc>LucaBartolini.github.io/</loc>
     <lastmod>2022-09-24T11:17:04+02:00</lastmod>
   </url><url>
-    <loc>LucaBartolini/LucaBartolini.github.io/</loc>
+    <loc>LucaBartolini.github.io/posts/first/</loc>
     <lastmod>2022-09-24T11:17:04+02:00</lastmod>
   </url><url>
-    <loc>LucaBartolini/LucaBartolini.github.io/posts/</loc>
+    <loc>LucaBartolini.github.io/posts/</loc>
     <lastmod>2022-09-24T11:17:04+02:00</lastmod>
   </url><url>
-    <loc>LucaBartolini/LucaBartolini.github.io/tags/</loc>
+    <loc>LucaBartolini.github.io/tags/</loc>
     <lastmod>2022-09-24T11:17:04+02:00</lastmod>
   </url><url>
-    <loc>LucaBartolini/LucaBartolini.github.io/tags/untagged/</loc>
+    <loc>LucaBartolini.github.io/tags/untagged/</loc>
     <lastmod>2022-09-24T11:17:04+02:00</lastmod>
   </url><url>
-    <loc>LucaBartolini/LucaBartolini.github.io/categories/</loc>
+    <loc>LucaBartolini.github.io/blog/</loc>
+  </url><url>
+    <loc>LucaBartolini.github.io/series/</loc>
   </url>
 </urlset>
