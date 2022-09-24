@@ -1,4 +1,4 @@
-baseURL = "LucaBartolini.github.io"
+baseURL = "LucaBartolini/LucaBartolini.github.io"
 # baseURL = "localhost"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
