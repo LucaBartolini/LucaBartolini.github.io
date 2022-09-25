@@ -3,8 +3,15 @@ baseURL = "LucaBartolini.github.io"
 languageCode = 'en-us'
 theme = "hello-friend-ng"
 publishDir  = "public"
-# publishDir  = "docs"
 paginate     = 10
+
+# Metadata mostly used in document's head
+description = "Nice theme for homepages and blogs"
+keywords = ""
+images = [""]
+
+# Home subtitle of the index page.
+homeSubtitle = "Onda Blu - il sito"
 
 [params]
     dateform        = "Jan 2, 2006"
@@ -13,7 +20,7 @@ paginate     = 10
     dateformNumTime = "2006-01-02 15:04"
 
     # Subtitle for home
-    homeSubtitle = "A simple and beautiful blog"
+    homeSubtitle = "Onda Blu - il sito"
 
     # Set disableReadOtherPosts to true in order to hide the links to other posts.
     disableReadOtherPosts = false
@@ -47,8 +54,8 @@ paginate     = 10
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
 
-#   # And you can even create generic menu
-#   [[menu.main]]
-#     identifier = "blog"
-#     name       = "Blog"
-#     url        = "/posts"
+# And you can even create generic menu
+[[menu.main]]
+identifier = "blog"
+name       = "Blog"
+url        = "/posts"
